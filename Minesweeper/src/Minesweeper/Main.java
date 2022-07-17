@@ -346,14 +346,6 @@ public class Main extends Application {
 				buttons[y][x].boardGenerated = true;
 			}
 		}
-		/*
-		 * // first 8 tile opening for (int y = 0; y < buttons.length; y++) { for (int x
-		 * = 0; x < buttons[0].length; x++) { ButtonClick b = buttons[y][x]; if
-		 * (!buttons[y][x].canBeMine) { b.updateImage(); b.setGraphic(b.imageNumber);
-		 * //b.clicked = true;
-		 * 
-		 * //b.gridSize = 8; } } }
-		 */
 
 //print full mine board
 		for (int y = 0; y < buttons.length; y++) {
