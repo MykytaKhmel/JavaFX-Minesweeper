@@ -1,3 +1,3 @@
 # JavaFX-Minesweeper
 
-Minesweeper Done in JavaFX for COSC 121 assignment.
+Minesweeper done in JavaFX for COSC 121 assignment.
